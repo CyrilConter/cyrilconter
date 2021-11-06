@@ -10,11 +10,12 @@
 
 #### You can find me on:
 <p align="left">
-  <a href="https://linkedin.com/in/cyrilconter"><img src="images/social/linkedin.svg" height=28></img></a>
+  <a href="https://linkedin.com/in/cyrilconter"><img src="images/social/linkedin.png" height=28></img></a>
   <a href="https://twitter.com/CyrilConter"><img src="images/social/twitter.svg" title="Twitter" height=28></img></a>
   <a href="https://www.kaggle.com/cyrilconter"><img src="images/social/kaggle.svg" height=28></img></a>
   <a href="https://www.codingame.com/profile/330a33214188d3ccaf791157dab219825735732"><img src="images/social/codingame.svg" height=28></img></a>
-  <a href="https://learn.acloud.guru/profile/cyrilconter" text="A Cloud Guru"><img src="images/social/acloudguru.jpg" height=28></img></a>
+  <!-- <a href="https://learn.acloud.guru/profile/cyrilconter" text="A Cloud Guru"><img src="images/social/acloudguru.jpg" height=28></img></a> -->
+  <a href="https://app.pluralsight.com/profile/cyril-conter" text="Pluralsight"><img src="images/social/pluralsight.png" height=28></img></a>
 </p>
 
 ## :toolbox: Technical Skills
@@ -32,8 +33,9 @@ Technologies and tools I am using these last years:
   <tr>
     <td><strong>Languages</strong></td>
     <td>
-      <a href="#"><img src="images/skills/csharp.svg" height=28 title="C#"></img></a>
-      <a href="#"><img src="images/skills/sql.svg" height=28 title="SQL"></img></a>
+      <img src="images/skills/csharp.svg" height=28 title="C#"></img>
+      <a href="https://www.python.org/"><img src="images/skills/python.svg" height=28 title="Python"></img></a>
+      <img src="images/skills/sql.svg" height=28 title="SQL"></img>
     </td>
   </tr>
   <tr>
