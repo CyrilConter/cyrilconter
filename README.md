@@ -6,6 +6,7 @@
 * I love technical & business challenges.
 * I discovered programming thanks to my brother's [Amstrad CPC 464](https://en.wikipedia.org/wiki/Amstrad_CPC) (with green screen) and I was fascinated by the possibility to display content using few lines of [BASIC](https://en.wikipedia.org/wiki/BASIC) code.
 * Current activity: learning ariticial intelligence/machine learning
+<br />
 
 #### You can find me on:
 <p align="left">
