@@ -5,8 +5,7 @@
 * According our customer needs, I act sometimes as software developer, as business analyst or as project manager.
 * I love technical & business challenges.
 * I discovered programming thanks to my brother's [Amstrad CPC 464](https://en.wikipedia.org/wiki/Amstrad_CPC) (with green screen) and I was fascinated by the possibility to display content using few lines of [BASIC](https://en.wikipedia.org/wiki/BASIC) code.
-
-![Last updated](https://img.shields.io/github/last-commit/cyrilconter/cyrilconter/main?label=Profile:%20last%20update&style=flat)
+* Current activity: learning ariticial intelligence/machine learning
 
 #### You can find me on:
 <p align="left">
@@ -69,3 +68,6 @@ Technologies and tools I am using these last years:
     </td>
   </tr> 
 </table>
+<br />
+
+![Last updated](https://img.shields.io/github/last-commit/cyrilconter/cyrilconter/main?label=Profile:%20last%20update&style=flat)
