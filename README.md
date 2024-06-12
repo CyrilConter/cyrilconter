@@ -104,6 +104,18 @@
       alt="PostgreSQL logo" 
       title="PostgreSQL" 
     /></a>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/" target="_blank" rel="noreferrer">
+    <img src="images/skills/powerbi.svg" 
+      width="36" height="36" 
+      alt="Power BI logo" 
+      title="Microsoft Power BI" 
+    /></a>
+  <a href="https://azure.microsoft.com/en-us/products/data-factory" target="_blank" rel="noreferrer">
+    <img src="images/skills/azure_data_factory.svg" 
+      width="36" height="36" 
+      alt="Azure Data Factory logo" 
+      title="Azure Data Factory" 
+    /></a> 
 </p>
 
 
