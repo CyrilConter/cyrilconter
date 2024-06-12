@@ -85,7 +85,9 @@
       title="PyCharm" 
     />
   </a>
+</p>
 
+<p align="left">
   <!-- Skills: Data -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" 
