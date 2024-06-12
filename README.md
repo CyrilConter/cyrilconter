@@ -42,7 +42,11 @@
       width="36" height="36" 
       alt="Git logo" 
       title="Git" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>      
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" 
+    width="36" height="36" 
+    alt="Docker logo"
+    title="Docker" /></a>      
   <a href="#"  target="_blank" rel="noreferrer">
     <img src="images/skills/azure_devops.svg" 
       width="36" height="36" 
