@@ -43,27 +43,35 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 </p>
 
 
 ### Development
+<!-- Skills: General -->
 <p align="left">
-  <!-- Skills: Languages -->
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" 
       width="36" height="36" 
-      alt="C# logo" 
-      title="C#"
-    />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" 
+      alt="Git logo" 
+      title="Git" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>      
+  <a href="#"  target="_blank" rel="noreferrer">
+    <img src="images/skills/azure_devops.svg" 
       width="36" height="36" 
-      alt="Python logo" 
-      title="Python" 
-    />
-  </a>
+      alt="Azure DevOps logo"
+      title="Azure DevOps" 
+    /></a>
+  <a href="https://sonarcloud.io" target="_blank" rel="noreferrer">
+    <img src="images/skills/sonarcloud.svg" 
+      width="36" height="36" 
+      alt="SonarCloud logo" 
+      title="SonarCloud" 
+    /></a>
+</p>
+
+<!-- Skills: Languages -->
+<p align="left">
   <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
     <img src="images/skills/vs.svg" 
       width="36" height="36" 
@@ -77,18 +85,29 @@
       alt="Visual Studio Code logo"       
       title="Visual Studio Code" 
     />
-  </a> 
+  </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" 
+      width="36" height="36" 
+      alt="C# logo" 
+      title="C#"
+    /></a>  
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="images/skills/pycharm.svg" 
       width="36" height="36" 
       alt="PyCharm logo" 
       title="PyCharm" 
-    />
-  </a>
+    /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" 
+      width="36" height="36" 
+      alt="Python logo" 
+      title="Python" 
+    /></a>    
 </p>
 
+<!-- Skills: Data -->
 <p align="left">
-  <!-- Skills: Data -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" 
       width="36" height="36" 
@@ -112,29 +131,11 @@
   </a>
   
   <!-- Skills: Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" 
-      width="36" height="36" 
-      alt="Git logo" 
-      title="Git" 
-    />
-  </a>
-  <a href="#"  target="_blank" rel="noreferrer">
-    <img src="images/skills/azure_devops.svg" 
-      width="36" height="36" 
-      alt="Azure DevOps logo"
-      title="Azure DevOps" 
-    />
-  </a>
-  <a href="https://sonarcloud.io" target="_blank" rel="noreferrer">
-    <img src="images/skills/sonarcloud.svg" 
-      width="36" height="36" 
-      alt="SonarCloud logo" 
-      title="SonarCloud" 
-    />
-  </a>
+
 
 </p>
+
+
 
 ### Additional Tools
 <p align="left">
