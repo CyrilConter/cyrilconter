@@ -2,12 +2,14 @@
 
 ## Hi there, I am Cyril 👋
 
+### I am a Software Developer
 * 🌍 I'm based in France & Luxembourg
-* 🧠 I'm learning Machine Learninng, TensorFlow
-* 🤝 I'm open to collaborating on interes
+* 💼 I am currently working full-time as a consultant at [Agile Partner](https://www.agilepartner.net) in Luxembourg.
+* 🧠 I love technical & business challenges so, according our customer needs, I act sometimes as software developer, as business analyst or as project manager.
+* 🎯 Current goal: become __Machine Learning Engineer__
 * ⚡ I discovered programming thanks to my brother's [Amstrad CPC 464](https://en.wikipedia.org/wiki/Amstrad\_CPC) (with green screen) and I was fascinated by the possibility to display content using few lines of [BASIC](https://en.wikipedia.org/wiki/BASIC) code.
 
-## Connect
+### Connect with me
 <p align="left"> 
   <a href="https://www.linkedin.com/in/cconter" target="_blank" rel="noreferrer">
     <picture>
@@ -158,45 +160,14 @@
   </a>  
 </p>
 
-## Trainings
-
-* In Progress: 
+## Learning
+### In Progress: 
   * [Machine learning in Python with scikit-learn](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
   * [Mastering OpenCV with Python](https://opencv.org/university/mastering-opencv-with-python/)
 
-
-
-
-![Last updated](https://img.shields.io/github/last-commit/cyrilconter/cyrilconter/main?label=Profile:%20last%20update&style=flat)
 ---
+![Last updated](https://img.shields.io/github/last-commit/cyrilconter/cyrilconter/main?label=Profile:%20last%20update&style=flat)
 
-
-
-
-
-
-* I am currently working full-time as a consultant at [Agile Partner](https://www.agilepartner.net) in Luxembourg.
-* According our customer needs, I act sometimes as software developer, as business analyst or as project manager.
-* I love technical & business challenges.
-* I discovered programming thanks to my brother's [Amstrad CPC 464](https://en.wikipedia.org/wiki/Amstrad_CPC) (with green screen) and I was fascinated by the possibility to display content using few lines of [BASIC](https://en.wikipedia.org/wiki/BASIC) code.
-* ⚡I discovered programming thanks to my brother's \[Amstrad CPC 464\](https://en.wikipedia.org/wiki/Amstrad\_CPC) (with green screen) and I was fascinated by the possibility to display content using few lines of \[BASIC\](https://en.wikipedia.org/wiki/BASIC) code.
-* Career goal: become proficient in AI
-
-
-
-#### Current learning:
-* [Machine learning in Python with scikit-learn](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
-* [Mastering OpenCV with Python](https://opencv.org/university/mastering-opencv-with-python/)
-
-#### You can find me on:
-<p align="left">
-  <a href="https://linkedin.com/in/cyrilconter"><img src="images/social/linkedin.png" height=28></img></a>
-  <a href="https://twitter.com/CyrilConter"><img src="images/social/twitter.svg" title="Twitter" height=28></img></a>
-  <!-- <a href="https://www.kaggle.com/cyrilconter"><img src="images/social/kaggle.svg" height=28></img></a> -->
-  <a href="https://www.codingame.com/profile/330a33214188d3ccaf791157dab219825735732"><img src="images/social/codingame.svg" height=28></img></a>
-  <!-- <a href="https://learn.acloud.guru/profile/cyrilconter" text="A Cloud Guru"><img src="images/social/acloudguru.jpg" height=28></img></a> -->
-  <!-- <a href="https://app.pluralsight.com/profile/cyril-conter" text="Pluralsight"><img src="images/social/pluralsight.png" height=28></img></a> -->
-</p>
 
 ## :toolbox: Technical Skills
 Technologies and tools I am using these last years:
