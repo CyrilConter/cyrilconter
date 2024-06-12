@@ -125,8 +125,10 @@
 
 ## Learning
 ### In Progress: 
-  * [Machine learning in Python with scikit-learn](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
-  * [Mastering OpenCV with Python](https://opencv.org/university/mastering-opencv-with-python/)
+  * MOOC (EN): [Machine learning in Python with scikit-learn](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)  
+  * University course (FR): [Apprentissage statistique : modélisation descriptive et introduction aux réseaux de neurones](https://formation.cnam.fr/rechercher-par-discipline/apprentissage-statistique-modelisation-descriptive-et-introduction-aux-reseaux-de-neurones-208747.kjsp)
+  * University course (FR): [Intelligence artificielle](https://formation.cnam.fr/rechercher-par-discipline/intelligence-artificielle-208617.kjsp)
+  <!-- * MOOC (EN): [Mastering OpenCV with Python](https://opencv.org/university/mastering-opencv-with-python/) -->
 
 ---
 ![Last updated](https://img.shields.io/github/last-commit/cyrilconter/cyrilconter/main?label=Profile:%20last%20update&style=flat)
