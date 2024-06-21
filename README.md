@@ -1,4 +1,4 @@
-<img src="images/various/TreeAndDigital.jpeg" width="100%" alt="Image of a digital tree" />
+<img src="images/various/TreeAndDigital.jpg" width="100%" alt="Image of a digital tree" />
 
 ## Hi there, I am Cyril 👋
 
