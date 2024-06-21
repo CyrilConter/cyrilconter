@@ -34,7 +34,7 @@
   </a>  
 </p>
 
-## Skills
+## Toolbox
 <!-- Skills: General -->
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -55,14 +55,12 @@
     /></a>
   <a href="https://sonarcloud.io" target="_blank" rel="noreferrer">
     <img src="images/skills/sonarcloud.svg" 
-      width="36" height="36" 
+      height="36" 
       alt="SonarCloud logo" 
       title="SonarCloud" 
     /></a>
-</p>
 
-<!-- Skills: Languages -->
-<p align="left">
+  <!-- Skills: Languages -->
   <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
     <img src="images/skills/vs.svg" 
       width="36" height="36" 
@@ -92,11 +90,9 @@
       width="36" height="36" 
       alt="Python logo" 
       title="Python" 
-    /></a>    
-</p>
+    /></a>
 
-<!-- Skills: Data -->
-<p align="left">
+  <!-- Skills: Data -->
   <img src="images/skills/sql.svg" 
     height="36"
     alt="SQL logo"
