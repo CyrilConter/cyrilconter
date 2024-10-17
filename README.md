@@ -1,5 +1,3 @@
-<img src="images/various/TreeAndDigital.jpg" width="100%" alt="Image of a digital tree" />
-
 ## Hi there, I am Cyril 👋
 
 ### I am a Software Developer
@@ -118,11 +116,21 @@
 
 
 ## Learning
-### In Progress: 
-  * MOOC (EN): [Machine learning in Python with scikit-learn](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)  
-  * University course (FR): [Apprentissage statistique : modélisation descriptive et introduction aux réseaux de neurones](https://formation.cnam.fr/rechercher-par-discipline/apprentissage-statistique-modelisation-descriptive-et-introduction-aux-reseaux-de-neurones-208747.kjsp)
-  * University course (FR): [Intelligence artificielle](https://formation.cnam.fr/rechercher-par-discipline/intelligence-artificielle-208617.kjsp)
-  <!-- * MOOC (EN): [Mastering OpenCV with Python](https://opencv.org/university/mastering-opencv-with-python/) -->
+### In Progress
+* Coursera: [TensorFlow Developer Professional Certificate (DeepLearning.AI)](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+* University course (FR): [Apprentissage statistique : modélisation décisionnelle et apprentissage profond](https://formation.cnam.fr/rechercher-par-discipline/apprentissage-statistique-modelisation-decisionnelle-et-apprentissage-profond-208748.kjsp)
+* University course (FR): [Intelligence artificielle avancée](https://formation.cnam.fr/rechercher-par-discipline/intelligence-artificielle-avancee-1132536.kjsp) (Advanced AI)
+
+<!-- Scheduled
+* University course (FR): [Apprentissage statistique : modélisation descriptive et introduction aux réseaux de neurones](https://formation.cnam.fr/rechercher-par-discipline/apprentissage-statistique-modelisation-descriptive-et-introduction-aux-reseaux-de-neurones-208747.kjsp)
+* University course (FR): [Intelligence artificielle](https://formation.cnam.fr/rechercher-par-discipline/intelligence-artificielle-208617.kjsp)
+* MOOC (EN): [Mastering OpenCV with Python](https://opencv.org/university/mastering-opencv-with-python/) 
+-->  
+
+### Done
+* MOOC (EN): [Machine learning in Python with scikit-learn](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
+
+<img src="images/various/TreeAndDigital.jpg" width="100%" alt="Image of a digital tree" />
 
 ---
 ![Last updated](https://img.shields.io/github/last-commit/cyrilconter/cyrilconter/main?label=Profile:%20last%20update&style=flat)
