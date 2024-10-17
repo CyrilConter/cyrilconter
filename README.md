@@ -13,23 +13,21 @@
 <p align="left"> 
   <a href="https://www.linkedin.com/in/cconter" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyrilConter/cyrilconter/refs/heads/main/images/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyrilConter/cyrilconter/refs/heads/main/images/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/CyrilConter/cyrilconter/refs/heads/main/images/socials/linkedin.svg" width="32" height="32" />
     </picture>
   </a>
   <a href="https://www.x.com/cyrilconter" target="_blank" rel="noreferrer"> 
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyrilConter/cyrilconter/refs/heads/main/images/socials/twitter-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyrilConter/cyrilconter/refs/heads/main/images/socials/twitter.svg" /> 
+      <img src="https://raw.githubusercontent.com/CyrilConter/cyrilconter/refs/heads/main/images/socials/twitter.svg" width="32" height="32" /> 
     </picture>
   </a>
-  <a href="https://www.github.com/cyrilconter" target="_blank" rel="noreferrer">
+  <a href="https://www.kaggle.com/cyrilconter" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+      <img src="https://raw.githubusercontent.com/CyrilConter/cyrilconter/refs/heads/main/images/socials/kaggle.svg" width="32" height="32" />
     </picture>
   </a>  
 </p>
