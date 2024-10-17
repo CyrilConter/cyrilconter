@@ -69,6 +69,3 @@
 
 ### Done
 * MOOC (EN): [Machine learning in Python with scikit-learn](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
-
----
-![Last updated](https://img.shields.io/github/last-commit/cyrilconter/cyrilconter/main?label=Profile:%20last%20update&style=flat)
