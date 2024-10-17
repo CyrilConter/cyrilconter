@@ -25,95 +25,36 @@
   </a>
   <a href="https://www.kaggle.com/cyrilconter" target="_blank" rel="noreferrer">
     <picture>
-      <img src="https://raw.githubusercontent.com/CyrilConter/cyrilconter/refs/heads/main/images/socials/kaggle.svg" width="32" height="32" />
+      <img src="https://raw.githubusercontent.com/CyrilConter/cyrilconter/refs/heads/main/images/socials/kaggle.svg" width="64" height="32" />
     </picture>
   </a>  
 </p>
 
 ## Toolbox
-<!-- Skills: General -->
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" 
-      width="36" height="36" 
-      alt="Git logo" 
-      title="Git" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" 
-    width="36" height="36" 
-    alt="Docker logo"
-    title="Docker" /></a>      
-  <a href="#"  target="_blank" rel="noreferrer">
-    <img src="images/skills/azure_devops.svg" 
-      width="36" height="36" 
-      alt="Azure DevOps logo"
-      title="Azure DevOps" 
-    /></a>
-  <a href="https://sonarcloud.io" target="_blank" rel="noreferrer">
-    <img src="images/skills/sonarcloud.svg" 
-      height="36" 
-      alt="SonarCloud logo" 
-      title="SonarCloud" 
-    /></a>
 
-  <!-- Skills: Languages -->
-  <a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="images/skills/vs.svg" 
-      width="36" height="36" 
-      alt="Visual Studio logo" 
-      title="Visual Studio" 
-    /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="images/skills/vscode.svg" 
-      width="36" height="36" 
-      alt="Visual Studio Code logo"       
-      title="Visual Studio Code" 
-    /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" 
-      width="36" height="36" 
-      alt="C# logo" 
-      title="C#"
-    /></a>  
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="images/skills/pycharm.svg" 
-      width="36" height="36" 
-      alt="PyCharm logo" 
-      title="PyCharm" 
-    /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" 
-      width="36" height="36" 
-      alt="Python logo" 
-      title="Python" 
-    /></a>
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=white)
+![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078d7.svg?logo=azuredevops&logoColor=white)
 
-  <!-- Skills: Data -->
-  <img src="images/skills/sql.svg" 
-    height="36"
-    alt="SQL logo"
-    title="SQL" 
-  />
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" 
-      width="36" height="36" 
-      alt="PostgreSQL logo" 
-      title="PostgreSQL" 
-    /></a>
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi/" target="_blank" rel="noreferrer">
-    <img src="images/skills/powerbi.svg" 
-      width="36" height="36" 
-      alt="Power BI logo" 
-      title="Microsoft Power BI" 
-    /></a>
-  <a href="https://azure.microsoft.com/en-us/products/data-factory" target="_blank" rel="noreferrer">
-    <img src="images/skills/azure_data_factory.svg" 
-      width="36" height="36" 
-      alt="Azure Data Factory logo" 
-      title="Azure Data Factory" 
-    /></a> 
-</p>
+![VisualStudio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
+![VisualStudioCode](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 
+![Sql](https://img.shields.io/badge/SQL-%23316192.svg?logo=sql&logoColor=white)
+![SqlServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![PostgreSql](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-efd359.svg?logo=powerbil&logoColor=white)
+![AzureDataFactory](https://img.shields.io/badge/Azure_Data_Factory-0078d7.svg?logo=factory&logoColor=white)
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+
+<!--
+[Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+[NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+[TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+-->
 
 ## Learning
 ### In Progress
