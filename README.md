@@ -1,11 +1,10 @@
 ## Hi there, I am Cyril 👋
 
 ### I am a Software Developer
-* 🌍 I'm based in France & Luxembourg
-* 💼 I am currently working full-time as a consultant at [Agile Partner](https://www.agilepartner.net) in Luxembourg.
-* 🧠 I love technical & business challenges so, according our customer needs, I act sometimes as software developer, as business analyst or as project manager.
-* 🎯 Current goal: become __Machine Learning Engineer__
-* ⚡ I discovered programming thanks to my brother's [Amstrad CPC 464](https://en.wikipedia.org/wiki/Amstrad\_CPC) (with green screen) and I was fascinated by the possibility to display content using few lines of [BASIC](https://en.wikipedia.org/wiki/BASIC) code.
+- 💼 I am currently working full-time as a senior consultant at [Agile Partner](https://www.agilepartner.net) in Luxembourg.
+- 🧠 I love technical & business challenges so, according our customer needs, I act sometimes as software developer, as business analyst or as project manager.
+- 🎯 Current goal: become __Machine Learning Engineer__
+- ⚡ I discovered programming thanks to my brother's [Amstrad CPC 464](https://en.wikipedia.org/wiki/Amstrad\_CPC) (with green screen) and I was fascinated by the possibility to display content using few lines of [BASIC](https://en.wikipedia.org/wiki/BASIC) code.
 
 ### Connect with me
 <p align="left"> 
