@@ -1,77 +1,76 @@
 ## Hi there, I am Cyril 👋
-<img src="https://octodex.github.com/images/Fintechtocat.png" align="left" width=200px></img></div>
 
-* I am currently working full-time as a consultant at [Agile Partner](https://www.agilepartner.net) in Luxembourg.
-* According our customer needs, I act sometimes as software developer, as business analyst or as project manager.
-* I love technical & business challenges.
-* I discovered programming thanks to my brother's [Amstrad CPC 464](https://en.wikipedia.org/wiki/Amstrad_CPC) (with green screen) and I was fascinated by the possibility to display content using few lines of [BASIC](https://en.wikipedia.org/wiki/BASIC) code.
-* Career goal: become proficient in AI
+### I am a Software Developer
+- 💼 I am currently working full-time as a senior consultant at [Agile Partner](https://www.agilepartner.net) in Luxembourg.
+- 🧠 I love technical & business challenges so, according our customer needs, I act sometimes as software developer, as business analyst or as project manager.
+- 🎯 Current goal: become __Machine Learning Engineer__
+- ⚡ I discovered programming thanks to my brother's [Amstrad CPC 464](https://en.wikipedia.org/wiki/Amstrad\_CPC) (with green screen) and I was fascinated by the possibility to display content using few lines of [BASIC](https://en.wikipedia.org/wiki/BASIC) code.
 
-#### Current learning:
-* [Machine learning in Python with scikit-learn](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
-* [Mastering OpenCV with Python](https://opencv.org/university/mastering-opencv-with-python/)
-
-#### You can find me on:
-<p align="left">
-  <a href="https://linkedin.com/in/cyrilconter"><img src="images/social/linkedin.png" height=28></img></a>
-  <a href="https://twitter.com/CyrilConter"><img src="images/social/twitter.svg" title="Twitter" height=28></img></a>
-  <!-- <a href="https://www.kaggle.com/cyrilconter"><img src="images/social/kaggle.svg" height=28></img></a> -->
-  <a href="https://www.codingame.com/profile/330a33214188d3ccaf791157dab219825735732"><img src="images/social/codingame.svg" height=28></img></a>
-  <!-- <a href="https://learn.acloud.guru/profile/cyrilconter" text="A Cloud Guru"><img src="images/social/acloudguru.jpg" height=28></img></a> -->
-  <!-- <a href="https://app.pluralsight.com/profile/cyril-conter" text="Pluralsight"><img src="images/social/pluralsight.png" height=28></img></a> -->
+### Connect with me
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/cconter" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyrilConter/cyrilconter/refs/heads/main/images/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyrilConter/cyrilconter/refs/heads/main/images/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/CyrilConter/cyrilconter/refs/heads/main/images/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+  </a>
+  <a href="https://www.x.com/cyrilconter" target="_blank" rel="noreferrer"> 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyrilConter/cyrilconter/refs/heads/main/images/socials/twitter-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyrilConter/cyrilconter/refs/heads/main/images/socials/twitter.svg" /> 
+      <img src="https://raw.githubusercontent.com/CyrilConter/cyrilconter/refs/heads/main/images/socials/twitter.svg" width="32" height="32" /> 
+    </picture>
+  </a>
+  <a href="https://www.kaggle.com/cyrilconter" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="https://raw.githubusercontent.com/CyrilConter/cyrilconter/refs/heads/main/images/socials/kaggle.svg" width="64" height="32" />
+    </picture>
+  </a>  
 </p>
 
-## :toolbox: Technical Skills
-Technologies and tools I am using these last years:
+## Toolbox
 
-<table style="border-collapse:collapse">
-  <tr>
-    <td><strong>IDE</strong></td>
-    <td>            
-      <a href="https://visualstudio.microsoft.com"><img src="images/skills/vs.svg" height=28 title="Visual Studio"></img></a>
-      <a href="https://code.visualstudio.com/"><img src="images/skills/vscode.svg" height=28 title="Visual Studio Code"></img></a> 
-      <a href="https://www.jetbrains.com/pycharm/"><img src="images/skills/pycharm.svg" height=28 title="PyCharm"></img></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Languages</strong></td>
-    <td>
-      <img src="images/skills/csharp.svg" height=28 title="C#"></img>
-      <a href="https://www.python.org/"><img src="images/skills/python.svg" height=28 title="Python"></img></a>
-      <img src="images/skills/sql.svg" height=28 title="SQL"></img>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Data</strong></td>
-    <td>
-      <a href="#"><img src="images/skills/mssqlserver.svg" height=28 title="Microsoft SQL Server"></img></a>
-      <img src="https://img.shields.io/badge/Microsoft_SSRS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
-      <a href="https://www.elastic.co/"><img src="images/skills/elasticsearch.svg" height=28></img></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>CI/CD</strong></td>
-    <td>
-      <a href="#"><img src="images/skills/azure_devops.svg" height=28 title="Azure DevOps"></img></a>
-      <a href="https://git-scm.com"><img src="images/skills/git.svg" height=28 title="Git"></img></a>
-      <a href="https://sonarcloud.io"><img src="images/skills/sonarcloud.svg" height=28 title="sonarcloud"></img></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Coordination/Communication</strong></td>
-    <td>
-      <a href="#"><img src="images/skills/jira.svg" height=28 title="Jira Cloud"></img></a>
-      <a href="#"><img src="images/skills/trello.svg" height=28 title="Trello"></img></a>
-      <a href="#"><img src="images/skills/msteams.svg" height=28 title="Microsoft Teams"></img></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Practices</strong></td>
-    <td>
-      Clean Code, Unit Testing, Pair Programming
-    </td>
-  </tr> 
-</table>
-<br />
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=white)
+![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-0078d7.svg?logo=azuredevops&logoColor=white)
 
+![VisualStudio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
+![VisualStudioCode](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+
+![Sql](https://img.shields.io/badge/SQL-%23316192.svg?logo=sql&logoColor=white)
+![SqlServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![PostgreSql](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-efd359.svg?logo=powerbil&logoColor=white)
+![AzureDataFactory](https://img.shields.io/badge/Azure_Data_Factory-0078d7.svg?logo=factory&logoColor=white)
+
+![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+
+<!--
+[Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+[NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+[TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+-->
+
+## Learning
+### In Progress
+* Coursera: [TensorFlow Developer Professional Certificate (DeepLearning.AI)](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+* University course (FR): [Apprentissage statistique : modélisation décisionnelle et apprentissage profond](https://formation.cnam.fr/rechercher-par-discipline/apprentissage-statistique-modelisation-decisionnelle-et-apprentissage-profond-208748.kjsp)
+* University course (FR): [Intelligence artificielle avancée](https://formation.cnam.fr/rechercher-par-discipline/intelligence-artificielle-avancee-1132536.kjsp) (Advanced AI)
+
+<!-- Scheduled
+* University course (FR): [Apprentissage statistique : modélisation descriptive et introduction aux réseaux de neurones](https://formation.cnam.fr/rechercher-par-discipline/apprentissage-statistique-modelisation-descriptive-et-introduction-aux-reseaux-de-neurones-208747.kjsp)
+* University course (FR): [Intelligence artificielle](https://formation.cnam.fr/rechercher-par-discipline/intelligence-artificielle-208617.kjsp)
+* MOOC (EN): [Mastering OpenCV with Python](https://opencv.org/university/mastering-opencv-with-python/) 
+-->  
+
+### Done
+* MOOC (EN): [Machine learning in Python with scikit-learn](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
+
+<img src="images/various/TreeAndDigital.jpg" width="100%" alt="Image of a digital tree" />
+
+---
 ![Last updated](https://img.shields.io/github/last-commit/cyrilconter/cyrilconter/main?label=Profile:%20last%20update&style=flat)
